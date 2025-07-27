@@ -17,7 +17,7 @@
   <!-- Languages -->
   <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-HTML-333?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/-SCSS-333?style=flat&logo=sass" />
 
   <!-- Frameworks & Libraries -->
