@@ -37,7 +37,7 @@
   <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/-Git-333?style=flat&logo=git" />
   <img src="https://img.shields.io/badge/-WordPress-333?style=flat&logo=wordpress" />
-  <img src="https://img.shields.io/badge/-CI%2FCD-333?style=flat&logo=githubactions" />
+  <img src="https://img.shields.io/badge/-CI%2FCD-333?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vercel-333?style=flat&logo=vercel" />
   <img src="https://img.shields.io/badge/-Cloudflare-333?style=flat&logo=cloudflare" />
 </p>
