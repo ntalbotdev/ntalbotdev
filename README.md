@@ -1,4 +1,4 @@
-<h1 align="center">Nicolas</h1>
+<h1 align="center">Hi, I'm Nicolas 👋</h1>
 
 <p align="center">
   Full-stack web developer in Montreal, Canada. <br />
@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">Technologies I Work With</h3>
 
 <p align="center">
   <!-- Languages -->
